@@ -1,0 +1,166 @@
+{
+    "data": {
+        "recentAcSubmissionList": [
+            {
+                "id": "1691786802",
+                "title": "01 Matrix",
+                "titleSlug": "01-matrix",
+                "timestamp": "1752052421",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1691766665",
+                "title": "Longest Increasing Path in a Matrix",
+                "titleSlug": "longest-increasing-path-in-a-matrix",
+                "timestamp": "1752051141",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1691726834",
+                "title": "Number of Islands",
+                "titleSlug": "number-of-islands",
+                "timestamp": "1752048372",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1691712432",
+                "title": "Max Area of Island",
+                "titleSlug": "max-area-of-island",
+                "timestamp": "1752047346",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1691693728",
+                "title": "Island Perimeter",
+                "titleSlug": "island-perimeter",
+                "timestamp": "1752046064",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1690586722",
+                "title": "Flood Fill",
+                "titleSlug": "flood-fill",
+                "timestamp": "1751966491",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1690390327",
+                "title": "Set Matrix Zeroes",
+                "titleSlug": "set-matrix-zeroes",
+                "timestamp": "1751954537",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1690368266",
+                "title": "Find the Town Judge",
+                "titleSlug": "find-the-town-judge",
+                "timestamp": "1751953295",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1689087729",
+                "title": "Number of Provinces",
+                "titleSlug": "number-of-provinces",
+                "timestamp": "1751863138",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1687322413",
+                "title": "Hexadecimal and Hexatrigesimal Conversion",
+                "titleSlug": "hexadecimal-and-hexatrigesimal-conversion",
+                "timestamp": "1751726531",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1687299454",
+                "title": "Find Lucky Integer in an Array",
+                "titleSlug": "find-lucky-integer-in-an-array",
+                "timestamp": "1751725519",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1683594020",
+                "title": "Is Subsequence",
+                "titleSlug": "is-subsequence",
+                "timestamp": "1751443416",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1682199677",
+                "title": "Find the Original Typed String I",
+                "titleSlug": "find-the-original-typed-string-i",
+                "timestamp": "1751346380",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1681642155",
+                "title": "Longest Harmonious Subsequence",
+                "titleSlug": "longest-harmonious-subsequence",
+                "timestamp": "1751299307",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1676412896",
+                "title": "Kth Smallest Product of Two Sorted Arrays",
+                "titleSlug": "kth-smallest-product-of-two-sorted-arrays",
+                "timestamp": "1750876638",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1674347494",
+                "title": "Find All K-Distant Indices in an Array",
+                "titleSlug": "find-all-k-distant-indices-in-an-array",
+                "timestamp": "1750734642",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1673921483",
+                "title": "Sum of k-Mirror Numbers",
+                "titleSlug": "sum-of-k-mirror-numbers",
+                "timestamp": "1750695378",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1672168687",
+                "title": "Inverse Coin Change",
+                "titleSlug": "inverse-coin-change",
+                "timestamp": "1750561651",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1672125923",
+                "title": "Check if Any Element Has Prime Frequency",
+                "titleSlug": "check-if-any-element-has-prime-frequency",
+                "timestamp": "1750559642",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1672119529",
+                "title": "Divide a String Into Groups of Size k",
+                "titleSlug": "divide-a-string-into-groups-of-size-k",
+                "timestamp": "1750559211",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            }
+        ]
+    }
+}
