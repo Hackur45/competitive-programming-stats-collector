@@ -1,6 +1,6 @@
 # Competitive Programming Profile Data Collector
 
-This repository automates the collection of your competitive programming profile data from **Codeforces** and **LeetCode**, storing it in a structured format within your GitHub repository.
+This repository automates the collection of your competitive programming profile data from **Codeforces** and **LeetCode**, storing it in a structured, versioned format within your GitHub repository.
 
 ---
 
@@ -24,37 +24,41 @@ The primary goal of collecting this data is to build a **personal data dashboard
 
 ## 📦 Data Collected
 
-Currently, this repository collects the following data:
+Currently, this repository collects and stores versioned data under the `data/` directory:
 
 ### ✅ Codeforces:
-- User Information (Rating, Rank, Max Rating, etc.)
-- Submission Status (details of all your submissions)
+- `data/codeforces/codeforces_info_*.json` — User Information (Rating, Rank, Max Rating, etc.)
+- `data/codeforces/codeforces_submissions_*.json` — Submission Status (all your submission data)
 
 ### ✅ LeetCode:
-- User Profile Statistics (Total Solved, Solved by Difficulty, Ranking, etc.)
-- Recent Accepted Submissions (a list of your most recent successful problem attempts)
+- `data/leetcode/leetcode_info_*.json` — User Profile Statistics (Total Solved, Ranking, Difficulty-wise Stats, etc.)
+- `data/leetcode/leetcode_recent_submissions_*.json` — Recent Accepted Submissions (latest successful problem attempts)
+
+Each time the script runs, new files are generated with an incremented version number (e.g., `_1.json`, `_2.json`, etc.), preserving your full history over time.
 
 ---
 
 ## ⚙️ Automation with GitHub Actions
 
-The data collection process is fully automated using **GitHub Actions**.
+The data collection process is fully automated using **GitHub Actions**:
 
-- A workflow runs **every hour**, executing a Python script `update_profile_data.py`
-- It fetches the latest data from the respective APIs
-- Updates are committed to the `data/` directory in this repository
-- Ensures your dashboard always has fresh information
+- A workflow runs on a schedule (e.g., every hour or once a day)
+- It executes the `update_profile_data.py` script
+- Fresh data is fetched from Codeforces and LeetCode
+- Results are saved as versioned JSON files under the appropriate folders
+- Changes are committed and pushed automatically to the repository
 
 ---
 
-## 🚀 Setup
+## 🚀 Setup Instructions
 
 To set up this automation for your own profile:
 
-1. **Fork this repository**
+1. **⭐ Fork this repository**  
+   Click "Fork" on the top right of this repo to copy it to your GitHub account.
 
-2. **Update `update_profile_data.py`:**  
-   Edit the file in your forked repository:
+2. **🛠 Update `update_profile_data.py`:**  
+   Edit this section with your handles:
    ```python
    CODEFORCES_HANDLE = "your_codeforces_handle"
    LEETCODE_USERNAME = "your_leetcode_username"
