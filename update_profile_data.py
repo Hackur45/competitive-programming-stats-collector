@@ -8,8 +8,11 @@ import time
 CODEFORCES_HANDLE = "mandargurjar"
 LEETCODE_USERNAME = "mandargurjar"
 
-# --- Ensure 'data' directory exists ---
-os.makedirs("data", exist_ok=True)
+# --- Create folders ---
+CF_DIR = "data/codeforces"
+LC_DIR = "data/leetcode"
+os.makedirs(CF_DIR, exist_ok=True)
+os.makedirs(LC_DIR, exist_ok=True)
 
 # --- Get next versioned filename ---
 def get_next_versioned_filename(base_path, prefix):
@@ -56,7 +59,7 @@ def fetch_codeforces_data():
         info_response = requests.get(cf_info_url)
         info_response.raise_for_status()
         cf_info_data = info_response.json()
-        info_file = get_next_versioned_filename("data", "codeforces_info")
+        info_file = get_next_versioned_filename(CF_DIR, "codeforces_info")
         with open(info_file, "w") as f:
             json.dump(cf_info_data, f, indent=4)
         print(f"✅ Saved Codeforces info to {info_file}")
@@ -66,7 +69,7 @@ def fetch_codeforces_data():
         status_response = requests.get(cf_status_url)
         status_response.raise_for_status()
         cf_status_data = status_response.json()
-        status_file = get_next_versioned_filename("data", "codeforces_submissions")
+        status_file = get_next_versioned_filename(CF_DIR, "codeforces_submissions")
         with open(status_file, "w") as f:
             json.dump(cf_status_data, f, indent=4)
         print(f"✅ Saved Codeforces submissions to {status_file}")
@@ -142,7 +145,7 @@ def fetch_leetcode_data():
         if "errors" in profile_data or not profile_data.get("data", {}).get("matchedUser"):
             print("❌ Error: No matched user or GraphQL errors in profile")
         else:
-            profile_file = get_next_versioned_filename("data", "leetcode_info")
+            profile_file = get_next_versioned_filename(LC_DIR, "leetcode_info")
             with open(profile_file, "w") as f:
                 json.dump(profile_data, f, indent=4)
             print(f"✅ Saved LeetCode info to {profile_file}")
@@ -158,7 +161,7 @@ def fetch_leetcode_data():
         if "errors" in submissions_data or not submissions_data.get("data", {}).get("recentAcSubmissionList"):
             print("❌ Error: No recent submissions or GraphQL errors")
         else:
-            submissions_file = get_next_versioned_filename("data", "leetcode_recent_submissions")
+            submissions_file = get_next_versioned_filename(LC_DIR, "leetcode_recent_submissions")
             with open(submissions_file, "w") as f:
                 json.dump(submissions_data, f, indent=4)
             print(f"✅ Saved LeetCode recent submissions to {submissions_file}")
