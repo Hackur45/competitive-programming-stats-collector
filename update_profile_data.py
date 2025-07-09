@@ -6,7 +6,7 @@ import time
 
 # --- Configuration ---
 CODEFORCES_HANDLE = "mandargurjar" # Replace with your Codeforces handle
-LEETCODE_USERNAME = "mandargurjar" # Replace with your LeetCode username
+LEETCODE_USERNAME = "mandargurjar" # Replace with your LeetCode username - ENSURE THIS IS CORRECT!
 
 # --- File Paths ---
 CODEFORCES_INFO_FILE = "data/codeforces_info.json"
@@ -40,10 +40,10 @@ def run_git_command(command, commit_message=None):
         print(f"Command output (stdout): {e.stdout.decode()}")
         print(f"Command output (stderr): {e.stderr.decode()}")
         # Exit if git command fails, especially for crucial operations
-        exit(1)
+        # Do not exit here to allow other parts of the script to run even if git fails
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
-        exit(1)
+        # Do not exit here
 
 def fetch_codeforces_data():
     """Fetches Codeforces user info and submission status."""
@@ -74,6 +74,9 @@ def fetch_codeforces_data():
         print(f"Error fetching Codeforces data: {e}")
     except json.JSONDecodeError as e:
         print(f"Error decoding Codeforces JSON: {e}")
+    except Exception as e:
+        print(f"An unexpected error occurred during Codeforces data fetch: {e}")
+
 
 def fetch_leetcode_data():
     """Fetches LeetCode user profile statistics and recent accepted submissions via GraphQL."""
@@ -127,6 +130,7 @@ def fetch_leetcode_data():
 
     try:
         # Fetch user profile data
+        print(f"Attempting to fetch LeetCode profile for username: {LEETCODE_USERNAME}")
         profile_payload = {
             "query": profile_query,
             "variables": {"username": LEETCODE_USERNAME}
@@ -135,12 +139,18 @@ def fetch_leetcode_data():
         profile_response.raise_for_status()
         leetcode_info_data = profile_response.json()
 
+        if leetcode_info_data.get("errors"):
+            print(f"LeetCode Profile GraphQL Errors: {leetcode_info_data['errors']}")
+        elif not leetcode_info_data.get("data", {}).get("matchedUser"):
+            print(f"LeetCode Profile: No 'matchedUser' data found for {LEETCODE_USERNAME}. Check username or API response structure.")
+
         with open(LEETCODE_INFO_FILE, "w") as f:
             json.dump(leetcode_info_data, f, indent=4)
         print(f"LeetCode user info saved to {LEETCODE_INFO_FILE}")
         run_git_command(None, f"feat: Update LeetCode user info for {LEETCODE_USERNAME}") # Commit 3
 
         # Fetch recent accepted submissions
+        print(f"Attempting to fetch LeetCode recent submissions for username: {LEETCODE_USERNAME}")
         submissions_payload = {
             "query": recent_submissions_query,
             "variables": {"username": LEETCODE_USERNAME}
@@ -149,6 +159,12 @@ def fetch_leetcode_data():
         submissions_response.raise_for_status()
         leetcode_submissions_data = submissions_response.json()
 
+        if leetcode_submissions_data.get("errors"):
+            print(f"LeetCode Submissions GraphQL Errors: {leetcode_submissions_data['errors']}")
+        elif not leetcode_submissions_data.get("data", {}).get("recentAcSubmissionList"):
+            print(f"LeetCode Submissions: No 'recentAcSubmissionList' data found for {LEETCODE_USERNAME}. Check username or API response structure.")
+
+
         with open(LEETCODE_RECENT_SUBMISSIONS_FILE, "w") as f:
             json.dump(leetcode_submissions_data, f, indent=4)
         print(f"LeetCode recent submissions saved to {LEETCODE_RECENT_SUBMISSIONS_FILE}")
@@ -156,8 +172,15 @@ def fetch_leetcode_data():
 
     except requests.exceptions.RequestException as e:
         print(f"Error fetching LeetCode data: {e}")
+        if hasattr(e, 'response') and e.response is not None:
+            print(f"LeetCode API Response Status Code: {e.response.status_code}")
+            print(f"LeetCode API Response Body: {e.response.text}")
     except json.JSONDecodeError as e:
         print(f"Error decoding LeetCode JSON: {e}")
+        print(f"Problematic response text (if available): {profile_response.text if 'profile_response' in locals() else 'N/A'}")
+        print(f"Problematic response text (if available): {submissions_response.text if 'submissions_response' in locals() else 'N/A'}")
+    except Exception as e:
+        print(f"An unexpected error occurred during LeetCode data fetch: {e}")
 
 def main():
     """Main function to orchestrate data fetching and pushing."""
@@ -171,13 +194,26 @@ def main():
     # Final push after all commits are made
     print("Pushing changes to GitHub...")
     try:
-        subprocess.run(["git", "push"], check=True)
+        # Check if there are any changes to push
+        result = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True, check=True)
+        if result.stdout.strip():
+            print("Detected uncommitted changes. Committing before push...")
+            run_git_command(None, "chore: Final commit for any remaining changes")
+        else:
+            print("No pending changes to commit.")
+
+        # Ensure we are on the correct branch before pushing
+        current_branch = subprocess.run(["git", "rev-parse", "--abbrev-ref", "HEAD"], capture_output=True, text=True, check=True).stdout.strip()
+        subprocess.run(["git", "push", "origin", current_branch], check=True)
         print("Successfully pushed all changes to GitHub!")
     except subprocess.CalledProcessError as e:
         print(f"Error pushing to GitHub: {e}")
         print(f"Command output (stdout): {e.stdout.decode()}")
         print(f"Command output (stderr): {e.stderr.decode()}")
-        exit(1)
+        # Do not exit here, allow the workflow to complete even if push fails
+    except Exception as e:
+        print(f"An unexpected error occurred during git push: {e}")
+
 
 if __name__ == "__main__":
     main()
