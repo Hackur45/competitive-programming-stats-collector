@@ -28,8 +28,9 @@ def get_next_versioned_filename(base_path, prefix):
 # --- Run Git commands ---
 def run_git_command(command, commit_message=None):
     try:
-        subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=True)
-        subprocess.run(["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"], check=True)
+        # Set your actual GitHub identity (private email)
+        subprocess.run(["git", "config", "user.name", "Mandar Gurjar"], check=True)
+        subprocess.run(["git", "config", "user.email", "135321556+Hackur45@users.noreply.github.com"], check=True)
 
         if commit_message:
             subprocess.run(["git", "add", "."], check=True)
@@ -47,6 +48,7 @@ def run_git_command(command, commit_message=None):
             print(f"stderr: {e.stderr.decode()}")
     except Exception as e:
         print(f"❌ Unexpected error running git command: {e}")
+
 
 # --- Fetch Codeforces Data ---
 def fetch_codeforces_data():
