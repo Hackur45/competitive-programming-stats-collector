@@ -1,0 +1,49 @@
+{
+    "data": {
+        "matchedUser": {
+            "username": "mandargurjar",
+            "submitStats": {
+                "acSubmissionNum": [
+                    {
+                        "difficulty": "All",
+                        "count": 297,
+                        "submissions": 394
+                    },
+                    {
+                        "difficulty": "Easy",
+                        "count": 148,
+                        "submissions": 198
+                    },
+                    {
+                        "difficulty": "Medium",
+                        "count": 133,
+                        "submissions": 178
+                    },
+                    {
+                        "difficulty": "Hard",
+                        "count": 16,
+                        "submissions": 18
+                    }
+                ]
+            },
+            "profile": {
+                "ranking": 376024,
+                "userAvatar": "https://assets.leetcode.com/users/mandargurjar/avatar_1745759722.png",
+                "realName": "mandargurjar",
+                "aboutMe": "They also call me Hackur \ud83e\udd2b",
+                "school": "Shri Ramdeobaba College of Engineering",
+                "websites": [
+                    "https://mg-portfolio-liard.vercel.app"
+                ],
+                "countryName": "India",
+                "company": null,
+                "jobTitle": null,
+                "skillTags": [],
+                "postViewCount": 10,
+                "reputation": 0,
+                "solutionCount": 3,
+                "categoryDiscussCount": 0
+            }
+        }
+    }
+}
