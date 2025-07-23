@@ -1,0 +1,166 @@
+{
+    "data": {
+        "recentAcSubmissionList": [
+            {
+                "id": "1707470987",
+                "title": "Rank Scores",
+                "titleSlug": "rank-scores",
+                "timestamp": "1753201414",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1707274418",
+                "title": "Game of Life",
+                "titleSlug": "game-of-life",
+                "timestamp": "1753191631",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1707222019",
+                "title": "Search a 2D Matrix",
+                "titleSlug": "search-a-2d-matrix",
+                "timestamp": "1753188809",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1707078099",
+                "title": "Minimum Path Sum",
+                "titleSlug": "minimum-path-sum",
+                "timestamp": "1753179576",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1707055895",
+                "title": "Linked List Cycle",
+                "titleSlug": "linked-list-cycle",
+                "timestamp": "1753178291",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1704194583",
+                "title": "Check Divisibility by Digit Sum and Product",
+                "titleSlug": "check-divisibility-by-digit-sum-and-product",
+                "timestamp": "1752979234",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1703652193",
+                "title": "Count Islands With Total Value Divisible by K",
+                "titleSlug": "count-islands-with-total-value-divisible-by-k",
+                "timestamp": "1752937348",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1703601108",
+                "title": "Split Array by Prime Indices",
+                "titleSlug": "split-array-by-prime-indices",
+                "timestamp": "1752936133",
+                "statusDisplay": "Accepted",
+                "lang": "python3"
+            },
+            {
+                "id": "1700937984",
+                "title": "Is Graph Bipartite?",
+                "titleSlug": "is-graph-bipartite",
+                "timestamp": "1752733851",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1693763151",
+                "title": "Longest Substring Without Repeating Characters",
+                "titleSlug": "longest-substring-without-repeating-characters",
+                "timestamp": "1752201214",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1692131071",
+                "title": "Find if Path Exists in Graph",
+                "titleSlug": "find-if-path-exists-in-graph",
+                "timestamp": "1752074311",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1691795222",
+                "title": "Matrix Diagonal Sum",
+                "titleSlug": "matrix-diagonal-sum",
+                "timestamp": "1752052927",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1691786802",
+                "title": "01 Matrix",
+                "titleSlug": "01-matrix",
+                "timestamp": "1752052421",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1691766665",
+                "title": "Longest Increasing Path in a Matrix",
+                "titleSlug": "longest-increasing-path-in-a-matrix",
+                "timestamp": "1752051141",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1691726834",
+                "title": "Number of Islands",
+                "titleSlug": "number-of-islands",
+                "timestamp": "1752048372",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1691712432",
+                "title": "Max Area of Island",
+                "titleSlug": "max-area-of-island",
+                "timestamp": "1752047346",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1691693728",
+                "title": "Island Perimeter",
+                "titleSlug": "island-perimeter",
+                "timestamp": "1752046064",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1690586722",
+                "title": "Flood Fill",
+                "titleSlug": "flood-fill",
+                "timestamp": "1751966491",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1690390327",
+                "title": "Set Matrix Zeroes",
+                "titleSlug": "set-matrix-zeroes",
+                "timestamp": "1751954537",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1690368266",
+                "title": "Find the Town Judge",
+                "titleSlug": "find-the-town-judge",
+                "timestamp": "1751953295",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            }
+        ]
+    }
+}
