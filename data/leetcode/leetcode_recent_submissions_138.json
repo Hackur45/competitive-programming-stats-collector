@@ -1,0 +1,166 @@
+{
+    "data": {
+        "recentAcSubmissionList": [
+            {
+                "id": "1712049834",
+                "title": "Biggest Single Number",
+                "titleSlug": "biggest-single-number",
+                "timestamp": "1753528782",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1711423788",
+                "title": "Cousins in Binary Tree",
+                "titleSlug": "cousins-in-binary-tree",
+                "timestamp": "1753470520",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1711378541",
+                "title": "Diameter of Binary Tree",
+                "titleSlug": "diameter-of-binary-tree",
+                "timestamp": "1753467895",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1710863190",
+                "title": "Contains Duplicate II",
+                "titleSlug": "contains-duplicate-ii",
+                "timestamp": "1753440280",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1710450101",
+                "title": "Binary Tree Maximum Path Sum",
+                "titleSlug": "binary-tree-maximum-path-sum",
+                "timestamp": "1753417078",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1710432807",
+                "title": "Merge Intervals",
+                "titleSlug": "merge-intervals",
+                "timestamp": "1753415979",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1709910265",
+                "title": "Course Schedule IV",
+                "titleSlug": "course-schedule-iv",
+                "timestamp": "1753372859",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1709864786",
+                "title": "Course Schedule II",
+                "titleSlug": "course-schedule-ii",
+                "timestamp": "1753370534",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1709852593",
+                "title": "Course Schedule",
+                "titleSlug": "course-schedule",
+                "timestamp": "1753369880",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1709190665",
+                "title": "Flipping an Image",
+                "titleSlug": "flipping-an-image",
+                "timestamp": "1753328203",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1709181415",
+                "title": "Minimum Index Sum of Two Lists",
+                "titleSlug": "minimum-index-sum-of-two-lists",
+                "timestamp": "1753327335",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1708480650",
+                "title": "Find Eventual Safe States",
+                "titleSlug": "find-eventual-safe-states",
+                "timestamp": "1753274716",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1707470987",
+                "title": "Rank Scores",
+                "titleSlug": "rank-scores",
+                "timestamp": "1753201414",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1707274418",
+                "title": "Game of Life",
+                "titleSlug": "game-of-life",
+                "timestamp": "1753191631",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1707222019",
+                "title": "Search a 2D Matrix",
+                "titleSlug": "search-a-2d-matrix",
+                "timestamp": "1753188809",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1707078099",
+                "title": "Minimum Path Sum",
+                "titleSlug": "minimum-path-sum",
+                "timestamp": "1753179576",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1707055895",
+                "title": "Linked List Cycle",
+                "titleSlug": "linked-list-cycle",
+                "timestamp": "1753178291",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1704194583",
+                "title": "Check Divisibility by Digit Sum and Product",
+                "titleSlug": "check-divisibility-by-digit-sum-and-product",
+                "timestamp": "1752979234",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1703652193",
+                "title": "Count Islands With Total Value Divisible by K",
+                "titleSlug": "count-islands-with-total-value-divisible-by-k",
+                "timestamp": "1752937348",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1703601108",
+                "title": "Split Array by Prime Indices",
+                "titleSlug": "split-array-by-prime-indices",
+                "timestamp": "1752936133",
+                "statusDisplay": "Accepted",
+                "lang": "python3"
+            }
+        ]
+    }
+}
