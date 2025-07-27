@@ -8,6 +8,8 @@ This repository automates the collection of your competitive programming profile
 
 The primary goal of collecting this data is to build a **personal data dashboard**. This dashboard provides a comprehensive and evolving overview of your competitive programming journey. By centralizing this information, you can:
 
+- **To use as api in my personal portfolio**
+
 - **📈 Visualize Progress and Trends**  
   Track your rating changes, submission patterns, problem-solving distribution across difficulties, and overall performance over time. This helps in identifying strengths and areas for improvement.
 
