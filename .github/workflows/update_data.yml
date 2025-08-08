@@ -3,7 +3,7 @@ name: Update Profile Data
 on:
   schedule:
     # Runs every 7hour
-    - cron: '0 */7 * * *'
+    - cron: '0 */10 * * *'
   workflow_dispatch:
     # Allows manual triggering of the workflow
 
