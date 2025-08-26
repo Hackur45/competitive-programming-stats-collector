@@ -1,0 +1,166 @@
+{
+    "data": {
+        "recentAcSubmissionList": [
+            {
+                "id": "1748623102",
+                "title": "Maximum Area of Longest Diagonal Rectangle",
+                "titleSlug": "maximum-area-of-longest-diagonal-rectangle",
+                "timestamp": "1756188618",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1746734752",
+                "title": "Fibonacci Number",
+                "titleSlug": "fibonacci-number",
+                "timestamp": "1756047277",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1742713206",
+                "title": "Sum in a Matrix",
+                "titleSlug": "sum-in-a-matrix",
+                "timestamp": "1755745650",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1735061447",
+                "title": "Faulty Keyboard",
+                "titleSlug": "faulty-keyboard",
+                "timestamp": "1755183999",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1735050046",
+                "title": "Zigzag Conversion",
+                "titleSlug": "zigzag-conversion",
+                "timestamp": "1755183309",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1732617261",
+                "title": "Water and Jug Problem",
+                "titleSlug": "water-and-jug-problem",
+                "timestamp": "1755012821",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1725319076",
+                "title": "Create Hello World Function",
+                "titleSlug": "create-hello-world-function",
+                "timestamp": "1754463344",
+                "statusDisplay": "Accepted",
+                "lang": "javascript"
+            },
+            {
+                "id": "1725093207",
+                "title": "Invalid Tweets",
+                "titleSlug": "invalid-tweets",
+                "timestamp": "1754449242",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1725091258",
+                "title": "Article Views I",
+                "titleSlug": "article-views-i",
+                "timestamp": "1754449043",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1725088491",
+                "title": "Big Countries",
+                "titleSlug": "big-countries",
+                "timestamp": "1754448761",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1720750990",
+                "title": "Minimum Removals to Balance Array",
+                "titleSlug": "minimum-removals-to-balance-array",
+                "timestamp": "1754146454",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1720718285",
+                "title": "Earliest Finish Time for Land and Water Rides I",
+                "titleSlug": "earliest-finish-time-for-land-and-water-rides-i",
+                "timestamp": "1754145693",
+                "statusDisplay": "Accepted",
+                "lang": "python3"
+            },
+            {
+                "id": "1719804607",
+                "title": "Pascal's Triangle II",
+                "titleSlug": "pascals-triangle-ii",
+                "timestamp": "1754069462",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1719759300",
+                "title": "Pascal's Triangle",
+                "titleSlug": "pascals-triangle",
+                "timestamp": "1754067270",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1718416464",
+                "title": "Minimum Depth of Binary Tree",
+                "titleSlug": "minimum-depth-of-binary-tree",
+                "timestamp": "1753971540",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1717063298",
+                "title": "Shortest Cycle in a Graph",
+                "titleSlug": "shortest-cycle-in-a-graph",
+                "timestamp": "1753878490",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1714644916",
+                "title": "Binary Tree Zigzag Level Order Traversal",
+                "titleSlug": "binary-tree-zigzag-level-order-traversal",
+                "timestamp": "1753713594",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1713178397",
+                "title": "Find Peak Element",
+                "titleSlug": "find-peak-element",
+                "timestamp": "1753608313",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1713159044",
+                "title": "Count Hills and Valleys in an Array",
+                "titleSlug": "count-hills-and-valleys-in-an-array",
+                "timestamp": "1753607040",
+                "statusDisplay": "Accepted",
+                "lang": "python3"
+            },
+            {
+                "id": "1712049834",
+                "title": "Biggest Single Number",
+                "titleSlug": "biggest-single-number",
+                "timestamp": "1753528782",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            }
+        ]
+    }
+}
