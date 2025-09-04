@@ -1,0 +1,23 @@
+{
+    "status": "OK",
+    "result": [
+        {
+            "lastName": "Gurjar",
+            "country": "India",
+            "lastOnlineTimeSeconds": 1756743626,
+            "city": "Marathi, Maharashtra",
+            "rating": 987,
+            "friendOfCount": 1,
+            "titlePhoto": "https://userpic.codeforces.org/3762355/title/1b33b80ec56855e3.jpg",
+            "handle": "mandargurjar",
+            "avatar": "https://userpic.codeforces.org/3762355/avatar/566f61acca39da1f.jpg",
+            "firstName": "Mandar",
+            "contribution": 0,
+            "organization": "Shri Ramdeobaba college of engineering",
+            "rank": "newbie",
+            "maxRating": 1006,
+            "registrationTimeSeconds": 1706604102,
+            "maxRank": "newbie"
+        }
+    ]
+}
