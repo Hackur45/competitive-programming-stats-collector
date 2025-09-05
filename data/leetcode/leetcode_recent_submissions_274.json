@@ -1,0 +1,166 @@
+{
+    "data": {
+        "recentAcSubmissionList": [
+            {
+                "id": "1760333753",
+                "title": "Managers with at Least 5 Direct Reports",
+                "titleSlug": "managers-with-at-least-5-direct-reports",
+                "timestamp": "1757067380",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1760329735",
+                "title": "Nearest Exit from Entrance in Maze",
+                "titleSlug": "nearest-exit-from-entrance-in-maze",
+                "timestamp": "1757067092",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1760267888",
+                "title": "Students and Examinations",
+                "titleSlug": "students-and-examinations",
+                "timestamp": "1757062567",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1760105156",
+                "title": "Average Time of Process per Machine",
+                "titleSlug": "average-time-of-process-per-machine",
+                "timestamp": "1757051107",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1760025059",
+                "title": "Employee Bonus",
+                "titleSlug": "employee-bonus",
+                "timestamp": "1757044922",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1760014606",
+                "title": "Product Sales Analysis I",
+                "titleSlug": "product-sales-analysis-i",
+                "timestamp": "1757043904",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1759026365",
+                "title": "Rising Temperature",
+                "titleSlug": "rising-temperature",
+                "timestamp": "1756966466",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1758998586",
+                "title": "Customer Who Visited but Did Not Make Any Transactions",
+                "titleSlug": "customer-who-visited-but-did-not-make-any-transactions",
+                "timestamp": "1756964805",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1758965992",
+                "title": "Find Closest Person",
+                "titleSlug": "find-closest-person",
+                "timestamp": "1756962737",
+                "statusDisplay": "Accepted",
+                "lang": "python3"
+            },
+            {
+                "id": "1758881790",
+                "title": "Recyclable and Low Fat Products",
+                "titleSlug": "recyclable-and-low-fat-products",
+                "timestamp": "1756956836",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1758881476",
+                "title": "Replace Employee ID With The Unique Identifier",
+                "titleSlug": "replace-employee-id-with-the-unique-identifier",
+                "timestamp": "1756956809",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1758875534",
+                "title": "Subarray Sum Equals K",
+                "titleSlug": "subarray-sum-equals-k",
+                "timestamp": "1756956288",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1758487286",
+                "title": "Product Sales Analysis I",
+                "titleSlug": "product-sales-analysis-i",
+                "timestamp": "1756920002",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1758474229",
+                "title": "Sales Analysis III",
+                "titleSlug": "sales-analysis-iii",
+                "timestamp": "1756919388",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1754326434",
+                "title": "Friend Requests II: Who Has the Most Friends",
+                "titleSlug": "friend-requests-ii-who-has-the-most-friends",
+                "timestamp": "1756615332",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1754317719",
+                "title": "Not Boring Movies",
+                "titleSlug": "not-boring-movies",
+                "timestamp": "1756614636",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1754184681",
+                "title": "Restore Finishing Order",
+                "titleSlug": "restore-finishing-order",
+                "timestamp": "1756608047",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1753464886",
+                "title": "Department Highest Salary",
+                "titleSlug": "department-highest-salary",
+                "timestamp": "1756556153",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1753433643",
+                "title": "Valid Sudoku",
+                "titleSlug": "valid-sudoku",
+                "timestamp": "1756553879",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1751945966",
+                "title": "Distribute Candies to People",
+                "titleSlug": "distribute-candies-to-people",
+                "timestamp": "1756437404",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            }
+        ]
+    }
+}
