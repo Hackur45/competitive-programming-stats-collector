@@ -1,0 +1,166 @@
+{
+    "data": {
+        "recentAcSubmissionList": [
+            {
+                "id": "1762096122",
+                "title": "Minimum Operations to Transform String",
+                "titleSlug": "minimum-operations-to-transform-string",
+                "timestamp": "1757213631",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1762076309",
+                "title": "Minimum Operations to Equalize Array",
+                "titleSlug": "minimum-operations-to-equalize-array",
+                "timestamp": "1757212991",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1762045849",
+                "title": "Triangle",
+                "titleSlug": "triangle",
+                "timestamp": "1757211172",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1761125351",
+                "title": "Partition Equal Subset Sum",
+                "titleSlug": "partition-equal-subset-sum",
+                "timestamp": "1757137426",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1760352416",
+                "title": "Unique Paths II",
+                "titleSlug": "unique-paths-ii",
+                "timestamp": "1757068757",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1760333753",
+                "title": "Managers with at Least 5 Direct Reports",
+                "titleSlug": "managers-with-at-least-5-direct-reports",
+                "timestamp": "1757067380",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1760329735",
+                "title": "Nearest Exit from Entrance in Maze",
+                "titleSlug": "nearest-exit-from-entrance-in-maze",
+                "timestamp": "1757067092",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1760267888",
+                "title": "Students and Examinations",
+                "titleSlug": "students-and-examinations",
+                "timestamp": "1757062567",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1760105156",
+                "title": "Average Time of Process per Machine",
+                "titleSlug": "average-time-of-process-per-machine",
+                "timestamp": "1757051107",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1760025059",
+                "title": "Employee Bonus",
+                "titleSlug": "employee-bonus",
+                "timestamp": "1757044922",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1760014606",
+                "title": "Product Sales Analysis I",
+                "titleSlug": "product-sales-analysis-i",
+                "timestamp": "1757043904",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1759026365",
+                "title": "Rising Temperature",
+                "titleSlug": "rising-temperature",
+                "timestamp": "1756966466",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1758998586",
+                "title": "Customer Who Visited but Did Not Make Any Transactions",
+                "titleSlug": "customer-who-visited-but-did-not-make-any-transactions",
+                "timestamp": "1756964805",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1758965992",
+                "title": "Find Closest Person",
+                "titleSlug": "find-closest-person",
+                "timestamp": "1756962737",
+                "statusDisplay": "Accepted",
+                "lang": "python3"
+            },
+            {
+                "id": "1758881790",
+                "title": "Recyclable and Low Fat Products",
+                "titleSlug": "recyclable-and-low-fat-products",
+                "timestamp": "1756956836",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1758881476",
+                "title": "Replace Employee ID With The Unique Identifier",
+                "titleSlug": "replace-employee-id-with-the-unique-identifier",
+                "timestamp": "1756956809",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1758875534",
+                "title": "Subarray Sum Equals K",
+                "titleSlug": "subarray-sum-equals-k",
+                "timestamp": "1756956288",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1758487286",
+                "title": "Product Sales Analysis I",
+                "titleSlug": "product-sales-analysis-i",
+                "timestamp": "1756920002",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1758474229",
+                "title": "Sales Analysis III",
+                "titleSlug": "sales-analysis-iii",
+                "timestamp": "1756919388",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1754326434",
+                "title": "Friend Requests II: Who Has the Most Friends",
+                "titleSlug": "friend-requests-ii-who-has-the-most-friends",
+                "timestamp": "1756615332",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            }
+        ]
+    }
+}
