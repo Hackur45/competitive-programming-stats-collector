@@ -1,0 +1,166 @@
+{
+    "data": {
+        "recentAcSubmissionList": [
+            {
+                "id": "1771453323",
+                "title": "Counting Bits",
+                "titleSlug": "counting-bits",
+                "timestamp": "1757931499",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1770542834",
+                "title": "Jump Game VII",
+                "titleSlug": "jump-game-vii",
+                "timestamp": "1757856613",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1770524989",
+                "title": "Jump Game III",
+                "titleSlug": "jump-game-iii",
+                "timestamp": "1757855383",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1770510368",
+                "title": "Jump Game II",
+                "titleSlug": "jump-game-ii",
+                "timestamp": "1757854304",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1765087219",
+                "title": "Project Employees I",
+                "titleSlug": "project-employees-i",
+                "timestamp": "1757432554",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1763600675",
+                "title": "Min Cost Climbing Stairs",
+                "titleSlug": "min-cost-climbing-stairs",
+                "timestamp": "1757324078",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1763572392",
+                "title": "Convert Integer to the Sum of Two No-Zero Integers",
+                "titleSlug": "convert-integer-to-the-sum-of-two-no-zero-integers",
+                "timestamp": "1757322173",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1762684054",
+                "title": "Longest Unequal Adjacent Groups Subsequence I",
+                "titleSlug": "longest-unequal-adjacent-groups-subsequence-i",
+                "timestamp": "1757251236",
+                "statusDisplay": "Accepted",
+                "lang": "python3"
+            },
+            {
+                "id": "1762669376",
+                "title": "N-th Tribonacci Number",
+                "titleSlug": "n-th-tribonacci-number",
+                "timestamp": "1757250280",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1762621191",
+                "title": "Not Boring Movies",
+                "titleSlug": "not-boring-movies",
+                "timestamp": "1757246903",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1762619319",
+                "title": "Confirmation Rate",
+                "titleSlug": "confirmation-rate",
+                "timestamp": "1757246778",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1762096122",
+                "title": "Minimum Operations to Transform String",
+                "titleSlug": "minimum-operations-to-transform-string",
+                "timestamp": "1757213631",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1762076309",
+                "title": "Minimum Operations to Equalize Array",
+                "titleSlug": "minimum-operations-to-equalize-array",
+                "timestamp": "1757212991",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1762045849",
+                "title": "Triangle",
+                "titleSlug": "triangle",
+                "timestamp": "1757211172",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1761125351",
+                "title": "Partition Equal Subset Sum",
+                "titleSlug": "partition-equal-subset-sum",
+                "timestamp": "1757137426",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1760352416",
+                "title": "Unique Paths II",
+                "titleSlug": "unique-paths-ii",
+                "timestamp": "1757068757",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1760333753",
+                "title": "Managers with at Least 5 Direct Reports",
+                "titleSlug": "managers-with-at-least-5-direct-reports",
+                "timestamp": "1757067380",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1760329735",
+                "title": "Nearest Exit from Entrance in Maze",
+                "titleSlug": "nearest-exit-from-entrance-in-maze",
+                "timestamp": "1757067092",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1760267888",
+                "title": "Students and Examinations",
+                "titleSlug": "students-and-examinations",
+                "timestamp": "1757062567",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1760105156",
+                "title": "Average Time of Process per Machine",
+                "titleSlug": "average-time-of-process-per-machine",
+                "timestamp": "1757051107",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            }
+        ]
+    }
+}
