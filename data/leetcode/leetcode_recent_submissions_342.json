@@ -1,0 +1,166 @@
+{
+    "data": {
+        "recentAcSubmissionList": [
+            {
+                "id": "1784355413",
+                "title": "Queries Quality and Percentage",
+                "titleSlug": "queries-quality-and-percentage",
+                "timestamp": "1758987082",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1784320489",
+                "title": "Average Selling Price",
+                "titleSlug": "average-selling-price",
+                "timestamp": "1758985691",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1781928075",
+                "title": "Percentage of Users Attended a Contest",
+                "titleSlug": "percentage-of-users-attended-a-contest",
+                "timestamp": "1758776227",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1781911714",
+                "title": "Invalid Tweets",
+                "titleSlug": "invalid-tweets",
+                "timestamp": "1758775219",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1781909426",
+                "title": "Article Views I",
+                "titleSlug": "article-views-i",
+                "timestamp": "1758775074",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1781906406",
+                "title": "Big Countries",
+                "titleSlug": "big-countries",
+                "timestamp": "1758774873",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1781905408",
+                "title": "Find Customer Referee",
+                "titleSlug": "find-customer-referee",
+                "timestamp": "1758774805",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1781284514",
+                "title": "Longest Common Subsequence",
+                "titleSlug": "longest-common-subsequence",
+                "timestamp": "1758721684",
+                "statusDisplay": "Accepted",
+                "lang": "python3"
+            },
+            {
+                "id": "1771533396",
+                "title": "Maximum Subarray",
+                "titleSlug": "maximum-subarray",
+                "timestamp": "1757937838",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1771453323",
+                "title": "Counting Bits",
+                "titleSlug": "counting-bits",
+                "timestamp": "1757931499",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1770542834",
+                "title": "Jump Game VII",
+                "titleSlug": "jump-game-vii",
+                "timestamp": "1757856613",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1770524989",
+                "title": "Jump Game III",
+                "titleSlug": "jump-game-iii",
+                "timestamp": "1757855383",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1770510368",
+                "title": "Jump Game II",
+                "titleSlug": "jump-game-ii",
+                "timestamp": "1757854304",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1765087219",
+                "title": "Project Employees I",
+                "titleSlug": "project-employees-i",
+                "timestamp": "1757432554",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1763600675",
+                "title": "Min Cost Climbing Stairs",
+                "titleSlug": "min-cost-climbing-stairs",
+                "timestamp": "1757324078",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1763572392",
+                "title": "Convert Integer to the Sum of Two No-Zero Integers",
+                "titleSlug": "convert-integer-to-the-sum-of-two-no-zero-integers",
+                "timestamp": "1757322173",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1762684054",
+                "title": "Longest Unequal Adjacent Groups Subsequence I",
+                "titleSlug": "longest-unequal-adjacent-groups-subsequence-i",
+                "timestamp": "1757251236",
+                "statusDisplay": "Accepted",
+                "lang": "python3"
+            },
+            {
+                "id": "1762669376",
+                "title": "N-th Tribonacci Number",
+                "titleSlug": "n-th-tribonacci-number",
+                "timestamp": "1757250280",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1762621191",
+                "title": "Not Boring Movies",
+                "titleSlug": "not-boring-movies",
+                "timestamp": "1757246903",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1762619319",
+                "title": "Confirmation Rate",
+                "titleSlug": "confirmation-rate",
+                "timestamp": "1757246778",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            }
+        ]
+    }
+}
