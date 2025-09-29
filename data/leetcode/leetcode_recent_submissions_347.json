@@ -1,0 +1,166 @@
+{
+    "data": {
+        "recentAcSubmissionList": [
+            {
+                "id": "1785039733",
+                "title": "User Activity for the Past 30 Days I",
+                "titleSlug": "user-activity-for-the-past-30-days-i",
+                "timestamp": "1759041808",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1785027448",
+                "title": "Number of Unique Subjects Taught by Each Teacher",
+                "titleSlug": "number-of-unique-subjects-taught-by-each-teacher",
+                "timestamp": "1759040987",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1785019856",
+                "title": "Game Play Analysis IV",
+                "titleSlug": "game-play-analysis-iv",
+                "timestamp": "1759040483",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1784872541",
+                "title": "Immediate Food Delivery II",
+                "titleSlug": "immediate-food-delivery-ii",
+                "timestamp": "1759030609",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1784838647",
+                "title": "Monthly Transactions I",
+                "titleSlug": "monthly-transactions-i",
+                "timestamp": "1759029278",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1784355413",
+                "title": "Queries Quality and Percentage",
+                "titleSlug": "queries-quality-and-percentage",
+                "timestamp": "1758987082",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1784320489",
+                "title": "Average Selling Price",
+                "titleSlug": "average-selling-price",
+                "timestamp": "1758985691",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1781928075",
+                "title": "Percentage of Users Attended a Contest",
+                "titleSlug": "percentage-of-users-attended-a-contest",
+                "timestamp": "1758776227",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1781911714",
+                "title": "Invalid Tweets",
+                "titleSlug": "invalid-tweets",
+                "timestamp": "1758775219",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1781909426",
+                "title": "Article Views I",
+                "titleSlug": "article-views-i",
+                "timestamp": "1758775074",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1781906406",
+                "title": "Big Countries",
+                "titleSlug": "big-countries",
+                "timestamp": "1758774873",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1781905408",
+                "title": "Find Customer Referee",
+                "titleSlug": "find-customer-referee",
+                "timestamp": "1758774805",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1781284514",
+                "title": "Longest Common Subsequence",
+                "titleSlug": "longest-common-subsequence",
+                "timestamp": "1758721684",
+                "statusDisplay": "Accepted",
+                "lang": "python3"
+            },
+            {
+                "id": "1771533396",
+                "title": "Maximum Subarray",
+                "titleSlug": "maximum-subarray",
+                "timestamp": "1757937838",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1771453323",
+                "title": "Counting Bits",
+                "titleSlug": "counting-bits",
+                "timestamp": "1757931499",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1770542834",
+                "title": "Jump Game VII",
+                "titleSlug": "jump-game-vii",
+                "timestamp": "1757856613",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1770524989",
+                "title": "Jump Game III",
+                "titleSlug": "jump-game-iii",
+                "timestamp": "1757855383",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1770510368",
+                "title": "Jump Game II",
+                "titleSlug": "jump-game-ii",
+                "timestamp": "1757854304",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1765087219",
+                "title": "Project Employees I",
+                "titleSlug": "project-employees-i",
+                "timestamp": "1757432554",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1763600675",
+                "title": "Min Cost Climbing Stairs",
+                "titleSlug": "min-cost-climbing-stairs",
+                "timestamp": "1757324078",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            }
+        ]
+    }
+}
