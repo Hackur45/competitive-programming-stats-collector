@@ -1,0 +1,166 @@
+{
+    "data": {
+        "recentAcSubmissionList": [
+            {
+                "id": "1787136644",
+                "title": "Primary Department for Each Employee",
+                "titleSlug": "primary-department-for-each-employee",
+                "timestamp": "1759227622",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1787030459",
+                "title": "The Number of Employees Which Report to Each Employee",
+                "titleSlug": "the-number-of-employees-which-report-to-each-employee",
+                "timestamp": "1759218193",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1787000145",
+                "title": "Customers Who Bought All Products",
+                "titleSlug": "customers-who-bought-all-products",
+                "timestamp": "1759215712",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1786997537",
+                "title": "Biggest Single Number",
+                "titleSlug": "biggest-single-number",
+                "timestamp": "1759215519",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1786994944",
+                "title": "Find Followers Count",
+                "titleSlug": "find-followers-count",
+                "timestamp": "1759215328",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1786991189",
+                "title": "Classes With at Least 5 Students",
+                "titleSlug": "classes-with-at-least-5-students",
+                "timestamp": "1759215059",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1786983249",
+                "title": "Product Sales Analysis III",
+                "titleSlug": "product-sales-analysis-iii",
+                "timestamp": "1759214500",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1785039733",
+                "title": "User Activity for the Past 30 Days I",
+                "titleSlug": "user-activity-for-the-past-30-days-i",
+                "timestamp": "1759041808",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1785027448",
+                "title": "Number of Unique Subjects Taught by Each Teacher",
+                "titleSlug": "number-of-unique-subjects-taught-by-each-teacher",
+                "timestamp": "1759040987",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1785019856",
+                "title": "Game Play Analysis IV",
+                "titleSlug": "game-play-analysis-iv",
+                "timestamp": "1759040483",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1784872541",
+                "title": "Immediate Food Delivery II",
+                "titleSlug": "immediate-food-delivery-ii",
+                "timestamp": "1759030609",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1784838647",
+                "title": "Monthly Transactions I",
+                "titleSlug": "monthly-transactions-i",
+                "timestamp": "1759029278",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1784355413",
+                "title": "Queries Quality and Percentage",
+                "titleSlug": "queries-quality-and-percentage",
+                "timestamp": "1758987082",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1784320489",
+                "title": "Average Selling Price",
+                "titleSlug": "average-selling-price",
+                "timestamp": "1758985691",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1781928075",
+                "title": "Percentage of Users Attended a Contest",
+                "titleSlug": "percentage-of-users-attended-a-contest",
+                "timestamp": "1758776227",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1781911714",
+                "title": "Invalid Tweets",
+                "titleSlug": "invalid-tweets",
+                "timestamp": "1758775219",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1781909426",
+                "title": "Article Views I",
+                "titleSlug": "article-views-i",
+                "timestamp": "1758775074",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1781906406",
+                "title": "Big Countries",
+                "titleSlug": "big-countries",
+                "timestamp": "1758774873",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1781905408",
+                "title": "Find Customer Referee",
+                "titleSlug": "find-customer-referee",
+                "timestamp": "1758774805",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1781284514",
+                "title": "Longest Common Subsequence",
+                "titleSlug": "longest-common-subsequence",
+                "timestamp": "1758721684",
+                "statusDisplay": "Accepted",
+                "lang": "python3"
+            }
+        ]
+    }
+}
