@@ -1,0 +1,166 @@
+{
+    "data": {
+        "recentAcSubmissionList": [
+            {
+                "id": "1795151110",
+                "title": "Employees Whose Manager Left the Company",
+                "titleSlug": "employees-whose-manager-left-the-company",
+                "timestamp": "1759916104",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1795134974",
+                "title": "Count Salary Categories",
+                "titleSlug": "count-salary-categories",
+                "timestamp": "1759914952",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1795082163",
+                "title": "Last Person to Fit in the Bus",
+                "titleSlug": "last-person-to-fit-in-the-bus",
+                "timestamp": "1759910814",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1795062015",
+                "title": "Product Price at a Given Date",
+                "titleSlug": "product-price-at-a-given-date",
+                "timestamp": "1759908962",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1793003500",
+                "title": "Consecutive Numbers",
+                "titleSlug": "consecutive-numbers",
+                "timestamp": "1759744882",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1792939916",
+                "title": "Triangle Judgement",
+                "titleSlug": "triangle-judgement",
+                "timestamp": "1759739543",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1787136644",
+                "title": "Primary Department for Each Employee",
+                "titleSlug": "primary-department-for-each-employee",
+                "timestamp": "1759227622",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1787030459",
+                "title": "The Number of Employees Which Report to Each Employee",
+                "titleSlug": "the-number-of-employees-which-report-to-each-employee",
+                "timestamp": "1759218193",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1787000145",
+                "title": "Customers Who Bought All Products",
+                "titleSlug": "customers-who-bought-all-products",
+                "timestamp": "1759215712",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1786997537",
+                "title": "Biggest Single Number",
+                "titleSlug": "biggest-single-number",
+                "timestamp": "1759215519",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1786994944",
+                "title": "Find Followers Count",
+                "titleSlug": "find-followers-count",
+                "timestamp": "1759215328",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1786991189",
+                "title": "Classes With at Least 5 Students",
+                "titleSlug": "classes-with-at-least-5-students",
+                "timestamp": "1759215059",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1786983249",
+                "title": "Product Sales Analysis III",
+                "titleSlug": "product-sales-analysis-iii",
+                "timestamp": "1759214500",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1785039733",
+                "title": "User Activity for the Past 30 Days I",
+                "titleSlug": "user-activity-for-the-past-30-days-i",
+                "timestamp": "1759041808",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1785027448",
+                "title": "Number of Unique Subjects Taught by Each Teacher",
+                "titleSlug": "number-of-unique-subjects-taught-by-each-teacher",
+                "timestamp": "1759040987",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1785019856",
+                "title": "Game Play Analysis IV",
+                "titleSlug": "game-play-analysis-iv",
+                "timestamp": "1759040483",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1784872541",
+                "title": "Immediate Food Delivery II",
+                "titleSlug": "immediate-food-delivery-ii",
+                "timestamp": "1759030609",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1784838647",
+                "title": "Monthly Transactions I",
+                "titleSlug": "monthly-transactions-i",
+                "timestamp": "1759029278",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1784355413",
+                "title": "Queries Quality and Percentage",
+                "titleSlug": "queries-quality-and-percentage",
+                "timestamp": "1758987082",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1784320489",
+                "title": "Average Selling Price",
+                "titleSlug": "average-selling-price",
+                "timestamp": "1758985691",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            }
+        ]
+    }
+}
