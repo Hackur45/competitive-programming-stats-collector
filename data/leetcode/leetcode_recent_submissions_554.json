@@ -1,0 +1,166 @@
+{
+    "data": {
+        "recentAcSubmissionList": [
+            {
+                "id": "1834008184",
+                "title": "Managers with at Least 5 Direct Reports",
+                "titleSlug": "managers-with-at-least-5-direct-reports",
+                "timestamp": "1763538484",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1834000440",
+                "title": "Keep Multiplying Found Values by Two",
+                "titleSlug": "keep-multiplying-found-values-by-two",
+                "timestamp": "1763537837",
+                "statusDisplay": "Accepted",
+                "lang": "cpp"
+            },
+            {
+                "id": "1796510079",
+                "title": "Find Users With Valid E-Mails",
+                "titleSlug": "find-users-with-valid-e-mails",
+                "timestamp": "1760025718",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1796500188",
+                "title": "List the Products Ordered in a Period",
+                "titleSlug": "list-the-products-ordered-in-a-period",
+                "timestamp": "1760025127",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1796487585",
+                "title": "Group Sold Products By The Date",
+                "titleSlug": "group-sold-products-by-the-date",
+                "timestamp": "1760024349",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1796427804",
+                "title": "Second Highest Salary",
+                "titleSlug": "second-highest-salary",
+                "timestamp": "1760020492",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1796422674",
+                "title": "Delete Duplicate Emails",
+                "titleSlug": "delete-duplicate-emails",
+                "timestamp": "1760020159",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1796413101",
+                "title": "Patients With a Condition",
+                "titleSlug": "patients-with-a-condition",
+                "timestamp": "1760019539",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1796403394",
+                "title": "Fix Names in a Table",
+                "titleSlug": "fix-names-in-a-table",
+                "timestamp": "1760018905",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1796317797",
+                "title": "Department Top Three Salaries",
+                "titleSlug": "department-top-three-salaries",
+                "timestamp": "1760012457",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1796302857",
+                "title": "Investments in 2016",
+                "titleSlug": "investments-in-2016",
+                "timestamp": "1760011061",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1796217895",
+                "title": "Swap Sex of Employees",
+                "titleSlug": "swap-sex-of-employees",
+                "timestamp": "1760003564",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1796214907",
+                "title": "Find Total Time Spent by Each Employee",
+                "titleSlug": "find-total-time-spent-by-each-employee",
+                "timestamp": "1760003331",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1795961273",
+                "title": "Friend Requests II: Who Has the Most Friends",
+                "titleSlug": "friend-requests-ii-who-has-the-most-friends",
+                "timestamp": "1759982895",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1795951282",
+                "title": "Restaurant Growth",
+                "titleSlug": "restaurant-growth",
+                "timestamp": "1759981995",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1795277374",
+                "title": "Movie Rating",
+                "titleSlug": "movie-rating",
+                "timestamp": "1759926492",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1795186665",
+                "title": "Exchange Seats",
+                "titleSlug": "exchange-seats",
+                "timestamp": "1759918777",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1795151110",
+                "title": "Employees Whose Manager Left the Company",
+                "titleSlug": "employees-whose-manager-left-the-company",
+                "timestamp": "1759916104",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1795134974",
+                "title": "Count Salary Categories",
+                "titleSlug": "count-salary-categories",
+                "timestamp": "1759914952",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            },
+            {
+                "id": "1795082163",
+                "title": "Last Person to Fit in the Bus",
+                "titleSlug": "last-person-to-fit-in-the-bus",
+                "timestamp": "1759910814",
+                "statusDisplay": "Accepted",
+                "lang": "mysql"
+            }
+        ]
+    }
+}
